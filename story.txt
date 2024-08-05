@@ -10,4 +10,6 @@ He is happy.
 You do bath in teh morning, right?
 try again for main
 
+git git 
+
 Adam was late for class because he took a long bath.
